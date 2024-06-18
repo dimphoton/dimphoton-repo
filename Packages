@@ -1,41 +1,5 @@
 Package: me.dimphoton.mcdonaldsfix
 Name: McDonaldsFix
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: A tweak to bypass the forced upgrade in the McDonald's app
-Depiction: https://repo.dimphoton.me/depictions/mcdonaldsfix.html
-Maintainer: dimphoton <dimphoton@protonmail.com>
-Author: dimphoton <dimphoton@protonmail.com>
-Section: Tweaks
-Depends: firmware (>=12.0), mobilesubstrate (>= 0.9.5000), PreferenceLoader
-Filename: debs/me.dimphoton.mcdonaldsfix_1.0.0_iphoneos-arm.deb
-Size: 10832
-Installed-Size: 200
-MD5sum: 3e876ab43944a8853c2b7d73e6b68194
-SHA1: 6a38ae9ec9e5420e978a59d1f3d7dae573acd242
-SHA256: e52c8aefa70e4164c112dd65218c42ef370461e6a544d3230c93aae4589e1005
-SHA512: 8cb2d0bf73cc2f97e54e7147797d81e1e02eba59db732dcb4df1e88856ea7c97807e58e1815b4973071db47f2e926a42e611f5f4d8668bbf9a3f1ca6265df19b
-
-Package: me.dimphoton.mcdonaldsfix
-Name: McDonaldsFix
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Description: A tweak to bypass the forced upgrade in the McDonald's app
-Depiction: https://repo.dimphoton.me/depictions/mcdonaldsfix.html
-Maintainer: dimphoton <dimphoton@protonmail.com>
-Author: dimphoton <dimphoton@protonmail.com>
-Section: Tweaks
-Depends: firmware (>=12.0), mobilesubstrate (>= 0.9.5000), PreferenceLoader
-Filename: debs/me.dimphoton.mcdonaldsfix_1.0.0_iphoneos-arm64.deb
-Size: 10178
-Installed-Size: 252
-MD5sum: 7b0d5f0babf3e6712a23594027e39aba
-SHA1: ba81bfd3fd94574ba4620c6e87252977e22baa10
-SHA256: b9aaa048c0ccc81ee62ecd874f894b6b00dfaea42594749c6f0d9c7b235a0a2e
-SHA512: 5ec02bc57d9782f93dabd195409ca62e5cbc9b2806611cefb3b2c9f4ccd4824025d58ad7d207ffd7f654132c4398c8d0d380b038fcb37966b8a8103b4b02b238
-
-Package: me.dimphoton.mcdonaldsfix
-Name: McDonaldsFix
 Version: 1.0.1
 Architecture: iphoneos-arm
 Description: A tweak to bypass the forced upgrade in the McDonald's app
@@ -69,3 +33,39 @@ MD5sum: cd140578cb7878631a38c78278bcae75
 SHA1: 0ce36dde6b80149b457cd67f17e3e36557477a3a
 SHA256: 20e66c1bca840f56845ddcff218c5a8e3df3f251e01bcd0eb63fbb66a7ae4798
 SHA512: 7dbad911dcb417e1a4905b198ca76a5584af09e62bacb87943fe6dce8fe3e95c0563c3b5cd4317893bb6c15bb44b021abfb7c6de5aad27f9e5633db85de6e864
+
+Package: me.dimphoton.mcdonaldsfix
+Name: McDonaldsFix
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A tweak to bypass the forced upgrade in the McDonald's app
+Depiction: https://repo.dimphoton.me/depictions/mcdonaldsfix.html
+Maintainer: dimphoton <dimphoton@protonmail.com>
+Author: dimphoton <dimphoton@protonmail.com>
+Section: Tweaks
+Depends: firmware (>=12.0), mobilesubstrate (>= 0.9.5000), PreferenceLoader
+Filename: debs/me.dimphoton.mcdonaldsfix_1.0.0_iphoneos-arm.deb
+Size: 10832
+Installed-Size: 200
+MD5sum: 3e876ab43944a8853c2b7d73e6b68194
+SHA1: 6a38ae9ec9e5420e978a59d1f3d7dae573acd242
+SHA256: e52c8aefa70e4164c112dd65218c42ef370461e6a544d3230c93aae4589e1005
+SHA512: 8cb2d0bf73cc2f97e54e7147797d81e1e02eba59db732dcb4df1e88856ea7c97807e58e1815b4973071db47f2e926a42e611f5f4d8668bbf9a3f1ca6265df19b
+
+Package: me.dimphoton.mcdonaldsfix
+Name: McDonaldsFix
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: A tweak to bypass the forced upgrade in the McDonald's app
+Depiction: https://repo.dimphoton.me/depictions/mcdonaldsfix.html
+Maintainer: dimphoton <dimphoton@protonmail.com>
+Author: dimphoton <dimphoton@protonmail.com>
+Section: Tweaks
+Depends: firmware (>=12.0), mobilesubstrate (>= 0.9.5000), PreferenceLoader
+Filename: debs/me.dimphoton.mcdonaldsfix_1.0.0_iphoneos-arm64.deb
+Size: 10178
+Installed-Size: 252
+MD5sum: 7b0d5f0babf3e6712a23594027e39aba
+SHA1: ba81bfd3fd94574ba4620c6e87252977e22baa10
+SHA256: b9aaa048c0ccc81ee62ecd874f894b6b00dfaea42594749c6f0d9c7b235a0a2e
+SHA512: 5ec02bc57d9782f93dabd195409ca62e5cbc9b2806611cefb3b2c9f4ccd4824025d58ad7d207ffd7f654132c4398c8d0d380b038fcb37966b8a8103b4b02b238
